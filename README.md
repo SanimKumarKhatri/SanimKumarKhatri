@@ -11,7 +11,7 @@ My work spans the full stack — PCB design and firmware up through model traini
 - **Wearable health-IoT** — embedded ML for real-time sensor data (fall detection, activity recognition)
 - **AI-driven RF/antenna design** — reinforcement learning for antenna optimization (see `rl-dipole-tuning`)
 
-## 🎓 Open to
+## 🔍 Open to
 
 PhD and research opportunities in **embedded AI**, **aerospace sensor systems**, and **computational electromagnetics/RF design**. Particularly interested in machine learning for resource-constrained platforms and AI-accelerated hardware design.
 
@@ -28,18 +28,17 @@ Bachelor in Electronics, Communication & Information Engineering, Pulchowk Campu
 | Project | What it is |
 |---|---|
 | [`rl-dipole-tuning`](https://github.com/SanimKumarKhatri/rl-dipole-tuning) | RL environment wrapping NEC2 for automated dipole antenna resonant-frequency optimization |
-| [`Fall-Detection-System`](https://github.com/SanimKumarKhatri/Fall-Detection-System) | Wearable fall-detection device + double-layer LSTM model (97.8% accuracy) — companion code to the publication above |
+| [`Fall-Detection-System`](https://github.com/SanimKumarKhatri/Fall-Detection-System) | Wearable fall-detection device + double-layer LSTM model (97.8% accuracy) - *collaborative project*; companion code to the publication above; designed the wearable PCB, collected the training dataset |
 | [`Startracker-Simulator-for-Attitude-Determination-of-Spacecrafts`](https://github.com/SanimKumarKhatri/Startracker-Simulator-for-Attitude-Determination-of-Spacecrafts) | Synthetic star-image simulator and visualization layer for spacecraft attitude determination - *collaborative project*; built the image generation & visualization layer |
 
 ## 🛠️ Tech Stack
 
 **Languages:** `Python` `C/C++` `VHDL`  
-**Embedded:** `STM32` `ESP32` `RP2040` `ARM Cortex-M`  
-**ML/DL:** `PyTorch` `TensorFlow` `ONNX`  
-**Hardware:** `KiCAD` `LTspice` `NEC2`  
-**Cloud/Dev:** `AWS` `Flask` `Git` `Linux`
+**Embedded:** `STM32` `ESP32` `RP2040`
+**ML/DL:** `PyTorch` `TensorFlow`  
+**Hardware:** `KiCAD`  `NEC2`  
+**Cloud/Dev:** `AWS` `Git` `Linux`
 
 ## 📫 Find me
 
 [Website](https://www.sanimkhatri.com.np)  .  [LinkedIn](https://www.linkedin.com/in/sanim-kumar-khatri-b653a0275/)  .  sanimkhatri5@gmail.com
-
