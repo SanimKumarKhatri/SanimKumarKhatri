@@ -2,14 +2,14 @@
 
 > Electronics engineer building **hardware-to-ML pipelines** for aerospace sensing, health-IoT, and AI-driven RF design. First-author published research in embedded fall detection.
 
-My work spans the full stack — PCB design and firmware up through model training and on-device deployment. Currently extending that foundation into **computational electromagnetics** and **AI-accelerated antenna design**.
+My work spans the full stack, PCB design and firmware up through model training and on-device deployment. Currently extending that foundation into **computational electromagnetics** and **AI-accelerated antenna design**.
 
 ---
 
 ## 🔭 What I'm working on
 
-- **Wearable health-IoT** — embedded ML for real-time sensor data (fall detection, activity recognition)
-- **AI-driven RF/antenna design** — reinforcement learning for antenna optimization (see `rl-dipole-tuning`)
+- **Wearable health-IoT**: embedded ML for real-time sensor data (fall detection, activity recognition)
+- **AI-driven RF/antenna design**: reinforcement learning for antenna optimization (see `rl-dipole-tuning`)
 
 ## 🔍 Open to
 
@@ -17,7 +17,7 @@ PhD and research opportunities in **embedded AI**, **aerospace sensor systems**,
 
 ## 📄 Publication
 
-Khatri, S. K., Parajuli, D., Mane, P. M., Chaulagain, B., & Thapa, S. (2026). **Fall Detection System for Elderly People Using LSTM.** *Journal of Engineering Issues and Solutions*, 5(1), 210–220. [doi.org/10.3126/joeis.v5i1.93497](https://doi.org/10.3126/joeis.v5i1.93497)
+Khatri, S. K., Parajuli, D., Mane, P. M., Chaulagain, B., & Thapa, S. (2026). **Fall Detection System for Elderly People Using LSTM.** *Journal of Engineering Issues and Solutions*, 5(1), 210-220. [doi.org/10.3126/joeis.v5i1.93497](https://doi.org/10.3126/joeis.v5i1.93497)
 
 ## 🎓 Background
 
