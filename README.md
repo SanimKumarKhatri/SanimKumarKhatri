@@ -1,8 +1,8 @@
 # Hi, I'm Sanim Kumar Khatri
 
-Electronics engineer working at the intersection of **embedded systems, edge AI, and wireless/RF sensing**. I build hardware-to-ML pipelines, from PCB design and firmware up through model deployment, and I'm currently extending that foundation into AI-assisted antenna and RF system design.
+> Electronics engineer building **hardware-to-ML pipelines** for aerospace sensing, health-IoT, and AI-driven RF design. First-author published research in embedded fall detection.
 
-First-author published research on IoMT-based fall detection, combining custom wearable hardware with an on-device LSTM model.
+My work spans the full stack — PCB design and firmware up through model training and on-device deployment. Currently extending that foundation into **computational electromagnetics** and **AI-accelerated antenna design**.
 
 ---
 
@@ -10,6 +10,10 @@ First-author published research on IoMT-based fall detection, combining custom w
 
 - **Wearable health-IoT** — embedded ML for real-time sensor data (fall detection, activity recognition)
 - **AI-driven RF/antenna design** — reinforcement learning for antenna optimization (see `rl-dipole-tuning`)
+
+## 🎓 Open to
+
+PhD and research opportunities in **embedded AI**, **aerospace sensor systems**, and **computational electromagnetics/RF design**. Particularly interested in machine learning for resource-constrained platforms and AI-accelerated hardware design.
 
 ## 📄 Publication
 
@@ -25,12 +29,17 @@ Bachelor in Electronics, Communication & Information Engineering, Pulchowk Campu
 |---|---|
 | [`rl-dipole-tuning`](https://github.com/SanimKumarKhatri/rl-dipole-tuning) | RL environment wrapping NEC2 for automated dipole antenna resonant-frequency optimization |
 | [`Fall-Detection-System`](https://github.com/SanimKumarKhatri/Fall-Detection-System) | Wearable fall-detection device + double-layer LSTM model (97.8% accuracy) — companion code to the publication above |
-| [`Startracker-Simulator-for-Attitude-Determination-of-Spacecrafts`](https://github.com/SanimKumarKhatri/Startracker-Simulator-for-Attitude-Determination-of-Spacecrafts) | Synthetic star-image simulator and visualization layer for spacecraft attitude determination |
+| [`Startracker-Simulator-for-Attitude-Determination-of-Spacecrafts`](https://github.com/SanimKumarKhatri/Startracker-Simulator-for-Attitude-Determination-of-Spacecrafts) | Synthetic star-image simulator and visualization layer for spacecraft attitude determination - *collaborative project*; built the image generation & visualization layer |
 
-## 🛠️ Tech
+## 🛠️ Tech Stack
 
-`Python` `C/C++` `STM32` `ESP32` `VHDL` `PyTorch/TensorFlow` `KiCAD` `AWS`
+**Languages:** `Python` `C/C++` `VHDL`  
+**Embedded:** `STM32` `ESP32` `RP2040` `ARM Cortex-M`  
+**ML/DL:** `PyTorch` `TensorFlow` `ONNX`  
+**Hardware:** `KiCAD` `LTspice` `NEC2`  
+**Cloud/Dev:** `AWS` `Flask` `Git` `Linux`
 
 ## 📫 Find me
 
-[Website](https://www.sanimkhatri.com.np) · [LinkedIn](https://www.linkedin.com/in/sanim-kumar-khatri-b653a0275/) · sanimkhatri5@gmail.com
+[Website](https://www.sanimkhatri.com.np)  .  [LinkedIn](https://www.linkedin.com/in/sanim-kumar-khatri-b653a0275/)  .  sanimkhatri5@gmail.com
+
