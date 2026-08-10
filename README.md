@@ -13,7 +13,7 @@ My work spans the full stack, PCB design and firmware up through model training 
 
 ## 🔍 Open to
 
-PhD and research opportunities in **embedded AI**, **aerospace sensor systems**, and **computational electromagnetics/RF design**. Particularly interested in machine learning for resource-constrained platforms and AI-accelerated hardware design.
+Research opportunities in **embedded AI**, **aerospace sensor systems**, and **computational electromagnetics/RF design**. Particularly interested in machine learning for resource-constrained platforms and AI-accelerated hardware design.
 
 ## 📄 Publication
 
