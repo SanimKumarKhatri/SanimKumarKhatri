@@ -1,6 +1,6 @@
 # Hi, I'm Sanim Kumar Khatri
 
-> Electronics engineer building **hardware-to-ML pipelines** for aerospace sensing, health-IoT, and AI-driven RF design. First-author published research in embedded fall detection.
+> Electronics engineer building **hardware-to-ML pipelines** for embedded sensing, health-IoT, and AI-driven RF design. First-author published research in embedded fall detection.
 
 My work spans the full stack, PCB design and firmware up through model training and on-device deployment. Currently extending that foundation into **computational electromagnetics** and **AI-accelerated antenna design**.
 
@@ -17,7 +17,7 @@ Research collaboration in **embedded AI**, **intelligent sensor systems**, and *
 
 ## 📄 Publication
 
-Khatri, S. K., Parajuli, D., Mane, P. M., Chaulagain, B., & Thapa, S. (2026). **Fall Detection System for Elderly People Using LSTM.** *Journal of Engineering Issues and Solutions*, 5(1), 210-220. [doi.org/10.3126/joeis.v5i1.93497](https://doi.org/10.3126/joeis.v5i1.93497)
+Khatri, S. K., Parajuli, D., Mane, P. M., Chaulagain, B., & Thapa, S. (2026). **Fall Detection System for Elderly People Using LSTM.** *Journal of Engineering Issues and Solutions*, 5(1), 210-220. [![DOI](https://img.shields.io/badge/DOI-10.3126%2Fjoeis.v5i1.93497-blue?style=flat-square)](https://doi.org/10.3126/joeis.v5i1.93497)
 
 ## 🎓 Background
 
