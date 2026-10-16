@@ -1,19 +1,22 @@
 # Hi, I'm Sanim Kumar Khatri
 
-> Electronics engineer researching **reinforcement learning for the optimization and control of RF, wireless, and autonomous physical systems**. First-author published research in embedded fall detection.
+> Electronics engineer working on AI hardware acceleration and **reinforcement learning for optimizing and controlling RF, wireless, and autonomous physical systems**. First-author research published on embedded fall detection.
+>
+> Currently part-time Assistant Lecturer teaching Computer Architecture, Computer Programming, and Computer Graphics, and conducting VHDL-based digital design labs.
 
-My work spans the full stack, PCB design and firmware up through model training and on-device deployment. Currently extending that foundation into **computational electromagnetics** and **AI-accelerated antenna design**
+My work spans the full stack, PCB design and firmware up through model training and on-device deployment.
 
 ---
 
 ## 🔭 What I'm working on
 
+- **AI hardware acceleration**: computer architecture, synthesizable hardware accelerators
 - **RL for wireless systems**: reinforcement learning for spectrum access and antenna optimization (see `dqn-dynamic-spectrum-access`, `rl-dipole-tuning`)
 - **Wearable health-IoT**: embedded ML for real-time sensor data (fall detection, activity recognition)
 
 ## 🔍 Open to
 
-PhD opportunities and research collaboration in **reinforcement learning for intelligent wireless and autonomous physical systems**, spanning RF/antenna optimization, spectrum access, edge AI, and simulation-driven digital twins for physical systems.
+PhD opportunities and research collaboration in **AI accelerator architectures**, computer architecture, reinforcement learning for intelligent wireless and autonomous physical systems, and edge AI.
 
 ## 📄 Publication
 
@@ -27,6 +30,7 @@ Bachelor in Electronics, Communication & Information Engineering, Pulchowk Campu
 
 | Project | What it is |
 |---|---|
+|[`scaled-dot-product-attention`](https://github.com/SanimKumarKhatri/scaled-dot-product-attention)| Verilog accelerator for scaled dot-product attention using two shared MAC units, Q8.8 fixed-point datapath, and LUT-based softmax.|
 | [`rl-dipole-tuning`](https://github.com/SanimKumarKhatri/rl-dipole-tuning) | RL environment wrapping NEC2 for automated dipole antenna resonant-frequency optimization |
 | [`dqn-dynamic-spectrum-access`](https://github.com/SanimKumarKhatri/dqn-dynamic-spectrum-access) | PyTorch replication of Wang et al. (2018) DQN for dynamic multichannel access; benchmarked against the analytical optimal policy and a Whittle Index heuristic on a correlated-channel POMDP |
 | [`Fall-Detection-System`](https://github.com/SanimKumarKhatri/Fall-Detection-System) | Wearable fall-detection device + double-layer LSTM model (97.8% accuracy) - *collaborative project*; companion code to the publication above; designed the wearable PCB, collected the training dataset |
@@ -34,7 +38,7 @@ Bachelor in Electronics, Communication & Information Engineering, Pulchowk Campu
 
 ## 🛠️ Tech Stack
 
-**Languages:** `Python` `C/C++` `VHDL`  
+**Languages:** `Python` `C/C++` `VHDL` `Verilog` 
 **Embedded:** `STM32` `ESP32` `RP2040`
 **ML/DL:** `PyTorch` `TensorFlow`  
 **Hardware:** `KiCAD`  `PyNEC`  
